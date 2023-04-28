@@ -24,13 +24,14 @@ AAF 是基于组件化方案，逐渐积累的一套 Android 终端开发方案�
 - **业务组件**：基础框架 `Application` 包含与业务相关的一些公共资源定义，基础功能封装等。`Base*` 则是聚焦一个具体的业务功能，例如页面卡片、广告等。
 
 - **应用组件**：应用组件是可以独立运行的最小单元，而且他们基本只是一个Android Application 的空壳加一些配置文件，所有的业务逻辑都在业务组件层实现。其中里面比较特别的是APPTest，他既是底层业务组件开发中的临时入口，同时也是一些基础功能 和 所有 Pub的测试入口。
-
+<!--
 ## 主要代码
 
 <a href="https://github.com/AndroidAppFactory/AndroidAppFactory"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=AndroidAppFactory" width ="45%" /></a> <a href="https://github.com/AndroidAppFactory/AndroidAppFactory-Sample"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=AndroidAppFactory-Sample" width ="45%" /></a>
 
 <a href="https://github.com/AndroidAppFactory/Template_Android"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=Template_Android&v1" width ="45%" /></a> <a href="https://github.com/AndroidAppFactory/Template-AAF"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=Template-AAF" width ="45%" /></a>
 
+-->
 ## 相关链接
 
 ## 相关链接
