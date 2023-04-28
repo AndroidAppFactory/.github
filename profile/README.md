@@ -11,7 +11,7 @@ AAF 是基于组件化方案，逐渐积累的一套 Android 终端开发方案�
 
 ## 核心仓库
 
-<a href="https://github.com/bihe0832/AndroidAppFactory"><img src="https://github-readme-stats.vercel.app/api/pin?username=bihe0832&repo=AndroidAppFactory" width ="40%" /></a> <a href="https://github.com/bihe0832/AndroidAppFactory-Sample"><img src="https://github-readme-stats.vercel.app/api/pin?username=bihe0832&repo=AndroidAppFactory-Sample" width ="40%" /></a>
+<a href="https://github.com/AndroidAppFactory/AndroidAppFactory"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=AndroidAppFactory" width ="40%" /></a> <a href="https://github.com/AndroidAppFactory/AndroidAppFactory-Sample"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=AndroidAppFactory-Sample" width ="40%" /></a>
 
 
 ## 相关链接
