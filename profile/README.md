@@ -13,7 +13,7 @@ AAF 是基于组件化方案，逐渐积累的一套 Android 终端开发方案�
 
 这是AAF的一个总体架构：
 
-<img src="https://android.bihe0832.com/doc/aaf_architecture.png" width ="90%" />
+![](https://android.bihe0832.com/doc/aaf_architecture.png?v=1)
 
 整个AAF框架共有四层：
 
