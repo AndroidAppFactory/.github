@@ -9,10 +9,11 @@
 
 AAF 是基于组件化方案，逐渐积累的一套 Android 终端开发方案。方案力求做到**技术方案可以轻松的从一个项目复用到另一个项目，或者可以快速在框架基础上开发出一个独立全新的应用**，开发过程中基本聚焦在新业务的逻辑，而不是基础功能。
 
-## 核心仓库
+## 主要代码
 
-<a href="https://github.com/AndroidAppFactory/AndroidAppFactory"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=AndroidAppFactory" width ="40%" /></a> <a href="https://github.com/AndroidAppFactory/AndroidAppFactory-Sample"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=AndroidAppFactory-Sample" width ="40%" /></a>
+<a href="https://github.com/AndroidAppFactory/AndroidAppFactory"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=AndroidAppFactory" width ="45%" /></a> <a href="https://github.com/AndroidAppFactory/AndroidAppFactory-Sample"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=AndroidAppFactory-Sample" width ="45%" /></a>
 
+<a href="https://github.com/AndroidAppFactory/AndroidAppFactory-Doc"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=AndroidAppFactory-Doc" width ="45%" /></a> <a href="https://github.com/AndroidAppFactory/AndroidAppFactory-Pages"><img src="https://github-readme-stats.vercel.app/api/pin?username=AndroidAppFactory&repo=AndroidAppFactory-Pages" width ="45%" /></a>
 
 ## 相关链接
 
@@ -22,17 +23,15 @@ AAF 是基于组件化方案，逐渐积累的一套 Android 终端开发方案�
     
     - 内容：主要**介绍相关组件的功能以及整体框架使用相关的内容**
 
-- 方案概述：
+- 技术方案介绍：
 
     - 链接：[https://blog.bihe0832.com/android-dev-summary.html](https://blog.bihe0832.com/android-dev-summary.html)
     
     - 内容：完整AAF的整个技术方案，以及其中一些核心的技术点
 	
-- 框架代码统计：
+- 代码统计：
 
-   - 链接：[https://android.bihe0832.com/source/lib/index.html](https://android.bihe0832.com/source/lib/index.html)
+   - 框架代码：[https://android.bihe0832.com/source/lib/index.html](https://android.bihe0832.com/source/lib/index.html)
 
-- AAF Sample 代码统计：
-
-   - 链接：[https://android.bihe0832.com/source/sample/index.html](https://android.bihe0832.com/source/sample/index.html)
+   - AAF Sample 代码：[https://android.bihe0832.com/source/sample/index.html](https://android.bihe0832.com/source/sample/index.html)
 
